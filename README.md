@@ -6,6 +6,8 @@ This research contributes a flexible, generalizable approach that mitigates trad
 
 ![image](https://github.com/user-attachments/assets/2028bcbf-b811-4541-9be0-326e88a2bce0)
 
+![image](https://github.com/user-attachments/assets/f06235a7-4a51-4c45-b71e-ff2fd1fd69d4)
+
 ![image](https://github.com/user-attachments/assets/18d06d42-20cd-460d-ac30-6eaf6cb22ac3)
 
 ![image](https://github.com/user-attachments/assets/8a210f7f-4a3c-4563-a1a5-6b63448a57cc)
